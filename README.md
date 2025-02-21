@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Setareh 👋
 
-<!--
-**setareh-soltanieh/setareh-soltanieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a Master's graduate from **Queen's University** in the **ECE department**, specializing in **AR/VR and AI**. Passionate about building immersive experiences and AI-driven applications, I enjoy working with cutting-edge technologies in computer vision, deep learning, and interactive 3D environments.  
 
-Here are some ideas to get you started:
+## 🔥 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** C#, Python  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV  
+- **AR/VR & 3D Development:** Unity3D, AR Foundation, Vuforia  
+- **AI & Deep Learning:** Neural Networks, Object Detection
+- **Tools & Platforms:** ROS, Git
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=setareh-soltanieh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setareh-soltanieh&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=setareh-soltanieh&theme=tokyonight)
+
+## 📫 Let's Connect
+- LinkedIn: [setareh-soltanieh](https://www.linkedin.com/in/setareh-soltanieh/)
+- Email: 22ss75@queensu.ca
+
+---  
+💡 *Open to collaborations in AI, AR/VR, and 3D development!*
