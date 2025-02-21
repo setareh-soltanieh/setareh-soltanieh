@@ -11,14 +11,6 @@ I'm a Master's graduate from **Queen's University** in the **ECE department**, s
 - **AI & Deep Learning:** Neural Networks, Object Detection
 - **Tools & Platforms:** ROS, Git
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=setareh-soltanieh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setareh-soltanieh&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=setareh-soltanieh&theme=tokyonight)
-
 ## 📫 Let's Connect
 - LinkedIn: [setareh-soltanieh](https://www.linkedin.com/in/setareh-soltanieh/)
 - Email: 22ss75@queensu.ca
